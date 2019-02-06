@@ -1,0 +1,8 @@
+package com.raz.product.dao;
+
+import com.raz.product.dto.Product;
+
+public interface ProductDAO {
+	void create(Product product);
+
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="com.raz.product.dao.ProductDAOImpl"/>
+<fullyQualifiedTypeName name="com.raz.product.dao.ProductDAO"/>
+<fullyQualifiedTypeName name="codingPractice.InheritanceDemo"/>
+<fullyQualifiedTypeName name="com.PolymorphismDemo.Animal"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="com.exceptions.TryCatchDemo"/>
+<fullyQualifiedTypeName name="com.exceptions.ExceptionDemo"/>
+<fullyQualifiedTypeName name="com.Inheritance.copy.InheritanceDemo"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.raz.product.dto.Product"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.WebApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.web.context.support.WebApplicationContextUtils"/>
+<fullyQualifiedTypeName name="com.raz.product.bo.ProductBO"/>
+</qualifiedTypeNameHistroy>

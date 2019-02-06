@@ -1,0 +1,5 @@
+package com.raz.product.dao;
+
+public interface ProductDAO {
+
+}
